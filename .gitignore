@@ -1,0 +1,10 @@
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar diretórios específicos
+__pycache__/
+*.pyc
+
+# Ignorar logs ou arquivos temporários
+*.log
+*.tmp
