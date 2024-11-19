@@ -21,9 +21,9 @@ The goal of this translator is to utilize Microsoft Azure AI capabilities to tra
    
    See Taylor Swift's I Can Do It With a Broken Heart Song translated with the Azure File Translator:
 
-[original song]()
+[Original song](https://github.com/Luisaphysics22/tradutor_artigos_tecnico_azure_ai_luisa_lemos/blob/main/app_translator_docs/taylor_swift_song.docx)
 
-[translated song]()
+[Translated song](https://github.com/Luisaphysics22/tradutor_artigos_tecnico_azure_ai_luisa_lemos/blob/main/app_translator_docs/taylor_swift_song_pt-br.docx)
 
 
 
